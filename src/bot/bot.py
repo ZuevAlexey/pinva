@@ -13,3 +13,6 @@ def start_bot():
 def send_message(user_id, message):
     print(f'send message for user {user_id} : {message}')
 #    bot.send_message(user_id, message)
+
+
+print('')
