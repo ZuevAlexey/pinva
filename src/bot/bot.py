@@ -1,5 +1,5 @@
 def initialize_bot():
-    return 5
+    return 3
 
 
 bot = initialize_bot()
